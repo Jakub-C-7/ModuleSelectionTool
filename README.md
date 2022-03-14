@@ -4,7 +4,7 @@
   ----
 This application at it's core will allow a user to sign-up, log-in and after selecting a course of study, select their desired final-year modules.
 
-  Technical Purpose of writing the application
+  Technical Purpose
 ----
 This is a Java application which I wrote in early 2020 as a part of my academic journey.
 
